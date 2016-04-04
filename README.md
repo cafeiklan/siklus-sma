@@ -1,2 +1,2 @@
-# siklus-sma
-Sistem Informasi Kelulusan untuk SMA/MA
+# siklus-smp
+Sistem Informasi Kelulusan untuk SMP
